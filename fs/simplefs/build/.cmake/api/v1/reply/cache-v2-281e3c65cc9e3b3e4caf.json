@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/students/test_02/user-land-filesystem/fs/simplefs/build"
+			"value" : "/home/students/200210224/user-land-filesystem/fs/simplefs/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -167,10 +167,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/gcc"
 		},
 		{
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/students/test_02/user-land-filesystem/fs/simplefs"
+			"value" : "/home/students/200210224/user-land-filesystem/fs/simplefs"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1115,7 +1115,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/students/test_02/user-land-filesystem/fs/simplefs/build"
+			"value" : "/home/students/200210224/user-land-filesystem/fs/simplefs/build"
 		},
 		{
 			"name" : "sfs-fuse_IS_TOP_LEVEL",
@@ -1139,7 +1139,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/students/test_02/user-land-filesystem/fs/simplefs"
+			"value" : "/home/students/200210224/user-land-filesystem/fs/simplefs"
 		}
 	],
 	"kind" : "cache",
